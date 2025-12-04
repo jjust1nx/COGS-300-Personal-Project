@@ -7,7 +7,7 @@ Joystick 1:
 * Right = Switch to Snake game controls
 
 Joystick 2:
-Dino game
+\n Dino game
 * Up = Jump
 * Down = Duck
 * Middle button = Restart game
